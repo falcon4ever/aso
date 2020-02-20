@@ -1,6 +1,6 @@
 {
   "name": "aso",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Tools for app store optimization on iTunes and Google Play",
   "main": "index.js",
   "scripts": {
