@@ -13,10 +13,10 @@
     "url": "https://github.com/facundoolano/aso"
   },
   "dependencies": {
-    "app-store-scraper": "^0.15.2",
-    "google-play-scraper": "7.*",
+    "app-store-scraper": "^0.16.3",
+    "google-play-scraper": "^8.0.2",
     "nlcst-to-string": "^1.1.0",
-    "promise-log": "^0.1.0",
+    "promise-log": "^0.1.1",
     "ramda": "^0.21.0",
     "retext": "^2.0.0",
     "retext-keywords": "^2.0.1"
